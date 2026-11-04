@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Camisa São Paulo Treino New Balance Masculino Preto Amarelo",
+   "preco": 85,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "FUT10",
+    "final": null
+   },
+   "loja": "Netshoes",
+   "imagem": "https://media.pelando.com.br/Af5qri__rM9coLfcvPlwhK6zUE8=/0x300/filters:format(webp)/d/captura-de-tela-2026-11-04-ais-175602-1793825771667.png",
+   "link": "https://www.netshoes.com.br/p/camisa-sao-paulo-treino-2627-new-balance-masculino-preto+amarelo-39V-24W2-178",
+   "prime": false,
+   "id": "camisa-sao-paulo-treino-new-balance-masculino-preto-9f1a",
+   "nota": 149.1,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-04T17:58:03",
+   "visto": "2026-11-04T17:58:03"
+  },
+  {
    "titulo": "Tênis Puma Caven 2.0 Mono BDP Branco Cinza",
    "preco": 180,
    "de": null,
