@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Camiseta Under Armour Tech V Neck Feminina Preto Tam P",
+   "preco": 62,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "pelando",
+    "final": null
+   },
+   "loja": "Netshoes",
+   "imagem": "https://media.pelando.com.br/xGxalD4kJmLVdJRxwZHGNIjrZGY=/0x300/filters:format(webp)/d/captura-de-tela-2026-11-04-ais-114903-1793803752195.png",
+   "link": "https://www.netshoes.com.br/p/camiseta-under-armour-tech-v-neck-feminina-preto-B78-7027-006",
+   "prime": false,
+   "id": "camiseta-under-armour-tech-v-neck-feminina-preto-tam-8e45",
+   "nota": 163.6,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-04T11:50:26",
+   "visto": "2026-11-04T11:50:26"
+  },
+  {
    "titulo": "Smart Tv Samsung 43 Ls43f6000fgxzd Full Hd Led 110v/220v",
    "preco": 1799.0,
    "de": 3200.0,
