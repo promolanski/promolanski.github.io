@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Puma Caven 2.0 Mono BDP Branco Cinza",
+   "preco": 180,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "PELANDO",
+    "final": null
+   },
+   "loja": "Netshoes",
+   "imagem": "https://media.pelando.com.br/B8U1pz57Y2hhlUktrylxfrTntHo=/0x300/filters:format(webp)/d/imagecropper1793819827192-1793819828219.jpg",
+   "link": "https://www.netshoes.com.br/p/tenis-puma-caven-20-mono-bdp-branco+cinza-PI3-75LX-014",
+   "prime": false,
+   "id": "tenis-puma-caven-2-0-mono-bdp-branco-cinza-4dcc",
+   "nota": 199.0,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-04T16:18:43",
+   "visto": "2026-11-04T16:18:43"
+  },
+  {
    "titulo": "Tênis New Balance 9060 Unisex Branco",
    "preco": 257.79,
    "de": null,
