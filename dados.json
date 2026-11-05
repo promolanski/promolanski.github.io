@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Adidas Samba OG Unissex",
+   "preco": 467,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "BLACK10",
+    "final": null
+   },
+   "loja": "ArtWalk",
+   "imagem": "https://media.pelando.com.br/qvwpn-ezbZQgU0j5cH1gXnMIfC4=/0x300/filters:format(webp)/d/imagecropper1793884204641-1793884205701.jpg",
+   "link": "https://www.artwalk.com.br/tenis-adidas-samba-og-w-unissex-jk497-7-001/p",
+   "prime": false,
+   "id": "tenis-adidas-samba-og-unissex-5a55",
+   "nota": 172.3,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-05T10:12:35",
+   "visto": "2026-11-05T10:12:35"
+  },
+  {
    "titulo": "Tênis Nike Air Force 1 07 Masculino",
    "preco": 539.98,
    "de": null,
