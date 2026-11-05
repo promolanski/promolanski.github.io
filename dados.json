@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Nike Air Jordan 1 Low Masculino",
+   "preco": 593,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "BLACK10",
+    "final": null
+   },
+   "loja": "ArtWalk",
+   "imagem": "https://media.pelando.com.br/p0-jdR6vuh6dUOPNWiXG6aZ3Kj8=/0x300/filters:format(webp)/d/crawler-image-a64f893e-aef2-4c24-9ec9-e8ccf004ca64-1793905223897-1793905225061.jpg",
+   "link": "https://www.artwalk.com.br/tenis-air-jordan-1-low-masculino-55355-8-133/p",
+   "prime": false,
+   "id": "tenis-nike-air-jordan-1-low-masculino-380c",
+   "nota": 204.8,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-05T16:02:56",
+   "visto": "2026-11-05T16:02:56"
+  },
+  {
    "titulo": "Tênis Adidas Samba OG Unissex",
    "preco": 467,
    "de": null,
