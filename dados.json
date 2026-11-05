@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Nike Run Swift 3 - Feminino",
+   "preco": 219,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "Centauro",
+   "imagem": "https://media.pelando.com.br/q9wAEYNVVLEFz8VXi-aY4qMCSGA=/0x300/filters:format(webp)/d/scp-xzqgu-1793907742437.jpg",
+   "link": "https://www.centauro.com.br/hotsite/nike-day-swift",
+   "prime": false,
+   "id": "tenis-nike-run-swift-3-feminino-ab58",
+   "nota": 205.2,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-05T16:45:20",
+   "visto": "2026-11-05T16:45:20"
+  },
+  {
    "titulo": "Tênis Nike Air Jordan 1 Low Masculino",
    "preco": 593,
    "de": null,
@@ -80,27 +98,6 @@
    "relampago": false,
    "quando": "2026-11-04T17:58:03",
    "visto": "2026-11-04T17:58:03"
-  },
-  {
-   "titulo": "Tênis Puma Caven 2.0 Mono BDP Branco Cinza",
-   "preco": 180,
-   "de": null,
-   "pct": null,
-   "pix": false,
-   "cupom": {
-    "codigo": "PELANDO",
-    "final": null
-   },
-   "loja": "Netshoes",
-   "imagem": "https://media.pelando.com.br/B8U1pz57Y2hhlUktrylxfrTntHo=/0x300/filters:format(webp)/d/imagecropper1793819827192-1793819828219.jpg",
-   "link": "https://www.netshoes.com.br/p/tenis-puma-caven-20-mono-bdp-branco+cinza-PI3-75LX-014",
-   "prime": false,
-   "id": "tenis-puma-caven-2-0-mono-bdp-branco-cinza-4dcc",
-   "nota": 199.0,
-   "vitrine": true,
-   "relampago": false,
-   "quando": "2026-11-04T16:18:43",
-   "visto": "2026-11-04T16:18:43"
   }
  ],
  "lista": []
