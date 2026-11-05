@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Nike Air Force 1 07 Masculino",
+   "preco": 539.98,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "Nike",
+   "imagem": "https://media.pelando.com.br/vJ6MpzCrAI_b7IdKh-dzUZHfIag=/0x300/filters:format(webp)/d/captura-de-tela-2026-11-05-011321-1793851910332.png",
+   "link": "https://www.nike.com.br/tenis-nike-air-force-1-07-masculino-029308.html?cor=5B",
+   "prime": false,
+   "id": "tenis-nike-air-force-1-07-masculino-89f7",
+   "nota": 215.6,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-05T01:12:49",
+   "visto": "2026-11-05T01:12:49"
+  },
+  {
    "titulo": "Camisa São Paulo Treino New Balance Masculino Preto Amarelo",
    "preco": 85,
    "de": null,
