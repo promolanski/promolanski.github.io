@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Feminino Puma Flyer Lite 3 Wns",
+   "preco": 169.99,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "Centauro",
+   "imagem": "https://media.pelando.com.br/ClYYscJ-3GbQqhOdc7bPTKSXbcs=/0x300/filters:format(webp)/d/scp-39vmd-1793988965659.jpg",
+   "link": "https://www.centauro.com.br/tenis-feminino-puma-flyer-lite-3-wns-m16vfu-mktp.html?cor=9E",
+   "prime": false,
+   "id": "tenis-feminino-puma-flyer-lite-3-wns-6ac7",
+   "nota": 172.0,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-06T15:18:54",
+   "visto": "2026-11-06T15:18:54"
+  },
+  {
    "titulo": "Tênis New Balance 55 Unisex",
    "preco": 179.9,
    "de": null,
