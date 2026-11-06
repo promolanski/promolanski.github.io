@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Adidas Lite Racer Feminino Branco Lilas",
+   "preco": 169.99,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "ADIDAS5",
+    "final": null
+   },
+   "loja": "Netshoes",
+   "imagem": "https://media.pelando.com.br/jAHw2HK7tCFpInJ98QZJza5Hi_w=/0x300/filters:format(webp)/d/scp-6n74s-1793984775960.jpg",
+   "link": "https://www.netshoes.com.br/p/tenis-adidas-lite-racer-feminino-branco+lilas-FBA-86LV-346?sellerId=0",
+   "prime": false,
+   "id": "tenis-adidas-lite-racer-feminino-branco-lilas-b557",
+   "nota": 175.3,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-06T14:07:56",
+   "visto": "2026-11-06T14:07:56"
+  },
+  {
    "titulo": "Tênis Nike Run Swift 3 - Feminino",
    "preco": 219,
    "de": null,
@@ -38,27 +59,6 @@
    "relampago": false,
    "quando": "2026-11-05T16:02:56",
    "visto": "2026-11-05T16:02:56"
-  },
-  {
-   "titulo": "Tênis Adidas Samba OG Unissex",
-   "preco": 467,
-   "de": null,
-   "pct": null,
-   "pix": false,
-   "cupom": {
-    "codigo": "BLACK10",
-    "final": null
-   },
-   "loja": "ArtWalk",
-   "imagem": "https://media.pelando.com.br/qvwpn-ezbZQgU0j5cH1gXnMIfC4=/0x300/filters:format(webp)/d/imagecropper1793884204641-1793884205701.jpg",
-   "link": "https://www.artwalk.com.br/tenis-adidas-samba-og-w-unissex-jk497-7-001/p",
-   "prime": false,
-   "id": "tenis-adidas-samba-og-unissex-5a55",
-   "nota": 172.3,
-   "vitrine": true,
-   "relampago": false,
-   "quando": "2026-11-05T10:12:35",
-   "visto": "2026-11-05T10:12:35"
   }
  ],
  "lista": []
