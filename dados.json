@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis New Balance 55 Unisex",
+   "preco": 179.9,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "Netshoes",
+   "imagem": "https://media.pelando.com.br/0yhzuaiTAOYE57Dnx2UtshnfwnY=/0x300/filters:format(webp)/d/scp-fr7wx-1793985282826.jpg",
+   "link": "https://www.netshoes.com.br/p/tenis-new-balance-55-unisex-39V-2117-128",
+   "prime": false,
+   "id": "tenis-new-balance-55-unisex-5bcc",
+   "nota": 176.4,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-06T14:17:15",
+   "visto": "2026-11-06T14:17:15"
+  },
+  {
    "titulo": "Tênis Adidas Lite Racer Feminino Branco Lilas",
    "preco": 169.99,
    "de": null,
