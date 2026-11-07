@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Camisa Botafogo Torcedor Reebok Masculina Branco Preto tam p",
+   "preco": 59,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "FUT10",
+    "final": null
+   },
+   "loja": "Netshoes",
+   "imagem": "https://media.pelando.com.br/eE0dygiICQxZADUmr6Td-7O0wrA=/0x300/filters:format(webp)/d/crawler-image-83e0a072-cf37-43e1-82ba-f9a48d04a8db-1794064952793-1794064953852.jpg",
+   "link": "https://www.netshoes.com.br/p/camisa-botafogo-i-2526-sn-torcedor-reebok-masculina-branco+preto-D19-809O-028",
+   "prime": false,
+   "id": "camisa-botafogo-torcedor-reebok-masculina-branco-pre-aad4",
+   "nota": 142.9,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-07T12:52:20",
+   "visto": "2026-11-07T12:52:20"
+  },
+  {
    "titulo": "Tênis Feminino Puma Flyer Lite 3 Wns",
    "preco": 169.99,
    "de": null,
