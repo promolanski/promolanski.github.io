@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Raquete de Beach Tennis Adams",
+   "preco": 64,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "TOMA10",
+    "final": null
+   },
+   "loja": "Centauro",
+   "imagem": "https://media.pelando.com.br/1gVrbcKrOpRlyLRTTXEfgiTtjAE=/0x300/filters:format(webp)/d/scp-g4mlu-1794235320576.jpg",
+   "link": "https://www.centauro.com.br/raquete-beach-tennis-adams-9972HG.html?cor=18",
+   "prime": false,
+   "id": "raquete-de-beach-tennis-adams-ae64",
+   "nota": 193.0,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-09T11:42:28",
+   "visto": "2026-11-09T11:42:28"
+  },
+  {
    "titulo": "Camisa São Paulo New Balance Masculina Vermelho Branco",
    "preco": 85.49,
    "de": null,
