@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Nike Giannis Immortality 5 Masculino",
+   "preco": 299,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "GANHE100",
+    "final": null
+   },
+   "loja": "Nike",
+   "imagem": "https://media.pelando.com.br/ncNcXUEUqih_LVypaXih6sfYChA=/0x300/filters:format(webp)/d/crawler-image-3d47ad14-2b88-43a1-b4b4-70975e2c9899-1794253154520-1794253155471.jpg",
+   "link": "https://www.nike.com.br/tenis-nike-giannis-immortality-5-masculino-109554.html?cor=NY",
+   "prime": false,
+   "id": "tenis-nike-giannis-immortality-5-masculino-1fb3",
+   "nota": 198.7,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-09T16:41:25",
+   "visto": "2026-11-09T16:41:25"
+  },
+  {
    "titulo": "Tênis Nike Air Force 1 '07 LV8 Masculino",
    "preco": 399.99,
    "de": null,
