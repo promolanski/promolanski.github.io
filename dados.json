@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Masculino Nike Court Vision Low Next Nature",
+   "preco": 296,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "TOMA10",
+    "final": null
+   },
+   "loja": "Centauro",
+   "imagem": "https://media.pelando.com.br/miziV9ZJbsT-D9f5488yeM6DOW8=/0x300/filters:format(webp)/d/scp-n5kmbh-1794236254819.jpg",
+   "link": "https://www.centauro.com.br/tenis-masculino-nike-court-vision-low-next-nature-962561.html?cor=02",
+   "prime": false,
+   "id": "tenis-masculino-nike-court-vision-low-next-nature-1c69",
+   "nota": 185.7,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-09T11:59:52",
+   "visto": "2026-11-09T11:59:52"
+  },
+  {
    "titulo": "Raquete de Beach Tennis Adams",
    "preco": 64,
    "de": null,
