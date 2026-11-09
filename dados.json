@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Nike Air Force 1 '07 LV8 Masculino",
+   "preco": 399.99,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "GANHE100",
+    "final": null
+   },
+   "loja": "Nike",
+   "imagem": "https://media.pelando.com.br/tkahcXpt7m9zaoEzggTZH5RmpF4=/0x300/filters:format(webp)/d/imagem2026-11-09161925427-1794251966383.png",
+   "link": "https://www.nike.com.br/air-force-1-07-lv8-097902.html?cor=ID",
+   "prime": false,
+   "id": "tenis-nike-air-force-1-07-lv8-masculino-3349",
+   "nota": 198.8,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-09T16:20:21",
+   "visto": "2026-11-09T16:20:21"
+  },
+  {
    "titulo": "Tênis Masculino Nike Court Vision Low Next Nature",
    "preco": 296,
    "de": null,
@@ -62,24 +83,6 @@
    "relampago": false,
    "quando": "2026-11-08T23:41:07",
    "visto": "2026-11-08T23:41:07"
-  },
-  {
-   "titulo": "Camiseta Lisa Dry Fit Proteção Solar UV Masculina",
-   "preco": 16.14,
-   "de": null,
-   "pct": null,
-   "pix": false,
-   "cupom": null,
-   "loja": "Centauro",
-   "imagem": "https://media.pelando.com.br/AdCHJfrYgIC38yJdb5Q06xfhjKU=/0x300/filters:format(webp)/d/crawler-image-b8462e7f-d8d6-4917-8fea-525332801109-1794155816699-1794155818020.jpg",
-   "link": "https://www.centauro.com.br/camiseta-manga-curta-whats-wear-dry-fit-protecao-solar-uv-lisa----masculina-m0v6by-mktp.html?cor=02",
-   "prime": false,
-   "id": "camiseta-lisa-dry-fit-protecao-solar-uv-masculina-7172",
-   "nota": 157.3,
-   "vitrine": true,
-   "relampago": false,
-   "quando": "2026-11-08T13:38:53",
-   "visto": "2026-11-08T13:38:53"
   }
  ],
  "lista": []
