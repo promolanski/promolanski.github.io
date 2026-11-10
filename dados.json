@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Nike Court Vision Low Masculino",
+   "preco": 279.99,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "Nike",
+   "imagem": "https://media.pelando.com.br/m_xL-G4T_3SuOSqb5GCcuvbcDu4=/0x300/filters:format(webp)/d/crawler-image-c2285c4e-be3e-4fa5-a202-523737c01a4a-1794331318517-1794331319479.jpg",
+   "link": "https://www.nike.com.br/tenis-nike-court-vision-low-masculino-007685.html?cor=54",
+   "prime": false,
+   "id": "tenis-nike-court-vision-low-masculino-2ac1",
+   "nota": 173.2,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-10T14:26:14",
+   "visto": "2026-11-10T14:26:14"
+  },
+  {
    "titulo": "Adidas Boné Baseball New Logo",
    "preco": 59.99,
    "de": null,
