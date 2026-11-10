@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Nike Reax 8 SL Masculino Preto",
+   "preco": 399.9,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "LIVE15",
+    "final": null
+   },
+   "loja": "Netshoes",
+   "imagem": "https://media.pelando.com.br/bhQ0lWvditHvJMtxnbfBoH9h2Os=/0x300/filters:format(webp)/d/scp-8qgna-1794346288666.jpg",
+   "link": "https://www.netshoes.com.br/p/tenis-nike-reax-8-sl-masculino-preto-SGL-05E0-006",
+   "prime": false,
+   "id": "tenis-nike-reax-8-sl-masculino-preto-e838",
+   "nota": 185.0,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-10T19:22:42",
+   "visto": "2026-11-10T19:22:42"
+  },
+  {
    "titulo": "Tênis Nike Court Vision Low Masculino",
    "preco": 279.99,
    "de": null,
@@ -35,48 +56,6 @@
    "relampago": false,
    "quando": "2026-11-10T12:08:36",
    "visto": "2026-11-10T12:08:36"
-  },
-  {
-   "titulo": "Tênis Nike Giannis Immortality 5 Masculino",
-   "preco": 299,
-   "de": null,
-   "pct": null,
-   "pix": false,
-   "cupom": {
-    "codigo": "GANHE100",
-    "final": null
-   },
-   "loja": "Nike",
-   "imagem": "https://media.pelando.com.br/ncNcXUEUqih_LVypaXih6sfYChA=/0x300/filters:format(webp)/d/crawler-image-3d47ad14-2b88-43a1-b4b4-70975e2c9899-1794253154520-1794253155471.jpg",
-   "link": "https://www.nike.com.br/tenis-nike-giannis-immortality-5-masculino-109554.html?cor=NY",
-   "prime": false,
-   "id": "tenis-nike-giannis-immortality-5-masculino-1fb3",
-   "nota": 198.7,
-   "vitrine": true,
-   "relampago": false,
-   "quando": "2026-11-09T16:41:25",
-   "visto": "2026-11-09T16:41:25"
-  },
-  {
-   "titulo": "Tênis Nike Air Force 1 '07 LV8 Masculino",
-   "preco": 399.99,
-   "de": null,
-   "pct": null,
-   "pix": false,
-   "cupom": {
-    "codigo": "GANHE100",
-    "final": null
-   },
-   "loja": "Nike",
-   "imagem": "https://media.pelando.com.br/tkahcXpt7m9zaoEzggTZH5RmpF4=/0x300/filters:format(webp)/d/imagem2026-11-09161925427-1794251966383.png",
-   "link": "https://www.nike.com.br/air-force-1-07-lv8-097902.html?cor=ID",
-   "prime": false,
-   "id": "tenis-nike-air-force-1-07-lv8-masculino-3349",
-   "nota": 198.8,
-   "vitrine": true,
-   "relampago": false,
-   "quando": "2026-11-09T16:20:21",
-   "visto": "2026-11-09T16:20:21"
   }
  ],
  "lista": []
