@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Máscara Capilar Cauterização Imediata Eudora Siage Cauterização Dos Fios 250g",
+   "preco": 19,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "livesurpresa",
+    "final": null
+   },
+   "loja": "Netshoes",
+   "imagem": "https://media.pelando.com.br/Jr5ZgDu56455CXjyaTaN53g98Yo=/0x300/filters:format(webp)/d/scp-1wamd-1794433622840.jpg",
+   "link": "https://www.netshoes.com.br/p/mascara-capilar-cauterizacao-imediata-eudora-siage-cauterizacao-dos-fios-250g-JEO-119M-460",
+   "prime": false,
+   "id": "mascara-capilar-cauterizacao-imediata-eudora-siage-c-f973",
+   "nota": 192.9,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-11T18:48:15",
+   "visto": "2026-11-11T18:48:15"
+  },
+  {
    "titulo": "Tênis Nike Reax 8 SL Masculino Preto",
    "preco": 399.9,
    "de": null,
@@ -20,24 +41,6 @@
    "relampago": false,
    "quando": "2026-11-10T19:22:42",
    "visto": "2026-11-10T19:22:42"
-  },
-  {
-   "titulo": "Tênis Nike Court Vision Low Masculino",
-   "preco": 279.99,
-   "de": null,
-   "pct": null,
-   "pix": false,
-   "cupom": null,
-   "loja": "Nike",
-   "imagem": "https://media.pelando.com.br/m_xL-G4T_3SuOSqb5GCcuvbcDu4=/0x300/filters:format(webp)/d/crawler-image-c2285c4e-be3e-4fa5-a202-523737c01a4a-1794331318517-1794331319479.jpg",
-   "link": "https://www.nike.com.br/tenis-nike-court-vision-low-masculino-007685.html?cor=54",
-   "prime": false,
-   "id": "tenis-nike-court-vision-low-masculino-2ac1",
-   "nota": 173.2,
-   "vitrine": true,
-   "relampago": false,
-   "quando": "2026-11-10T14:26:14",
-   "visto": "2026-11-10T14:26:14"
   }
  ],
  "lista": []
