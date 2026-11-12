@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Nike Dunk Low Retro SE Masculino",
+   "preco": 499,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "Nike",
+   "imagem": "https://media.pelando.com.br/7p5kbex2UiUpLy3msR9RLRqqU8E=/0x300/filters:format(webp)/d/imagecropper1794489264830-1794489267668.jpg",
+   "link": "https://www.nike.com.br/tenis-nike-dunk-low-retro-se-masculino-114062.html?cor=BR",
+   "prime": false,
+   "id": "tenis-nike-dunk-low-retro-se-masculino-1c24",
+   "nota": 194.1,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-12T10:15:35",
+   "visto": "2026-11-12T10:15:35"
+  },
+  {
    "titulo": "Máscara Capilar Cauterização Imediata Eudora Siage Cauterização Dos Fios 250g",
    "preco": 19,
    "de": null,
