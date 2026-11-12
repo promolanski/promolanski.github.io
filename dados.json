@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Mochila adidas Linear 18 Litros",
+   "preco": 94,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "TOMA10",
+    "final": null
+   },
+   "loja": "Centauro",
+   "imagem": "https://media.pelando.com.br/A-lLEmUySrSC08QjGUHQ_yEUU-c=/0x300/filters:format(webp)/d/scp-3nq3z-1794495182970.jpg",
+   "link": "https://www.centauro.com.br/mochila-adidas-linear-18-litros-993870.html?cor=3X",
+   "prime": false,
+   "id": "mochila-adidas-linear-18-litros-b347",
+   "nota": 160.3,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-12T11:53:51",
+   "visto": "2026-11-12T11:53:51"
+  },
+  {
    "titulo": "Tênis Nike Dunk Low Retro SE Masculino",
    "preco": 499,
    "de": null,
