@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Nike Court Vision Low Next Nature Feminino",
+   "preco": 279,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "Nike",
+   "imagem": "https://media.pelando.com.br/ad7MpMfXcFZHv7DJTm5wmIC3t2k=/0x300/filters:format(webp)/d/crawler-image-caf87dcd-8b0c-41f2-81ad-9b5daf9591c1-1794535902776-1794535903711.jpg",
+   "link": "https://www.nike.com.br/tenis-nike-court-vision-low-next-nature-feminino-013716.html?cor=P2",
+   "prime": false,
+   "id": "tenis-nike-court-vision-low-next-nature-feminino-e15b",
+   "nota": 183.3,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-12T23:15:18",
+   "visto": "2026-11-12T23:15:18"
+  },
+  {
    "titulo": "Mochila adidas Linear 18 Litros",
    "preco": 94,
    "de": null,
