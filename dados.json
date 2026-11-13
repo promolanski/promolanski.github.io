@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Adidas Advantage Base 2.0 Masculino - Branco+Verde",
+   "preco": 139,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "Netshoes",
+   "imagem": "https://media.pelando.com.br/pT3STY10XCZu_CsGxkhDKHXb3kA=/0x300/filters:format(webp)/d/colada-2026-11-13-14h09m56s-1794589797218.jpg",
+   "link": "https://www.netshoes.com.br/p/tenis-adidas-advantage-base-20-masculino-branco+verde-FB9-8936-114-43?sellerId=19740",
+   "prime": false,
+   "id": "tenis-adidas-advantage-base-2-0-masculino-branco-ver-0332",
+   "nota": 168.3,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-13T14:11:01",
+   "visto": "2026-11-13T14:11:01"
+  },
+  {
    "titulo": "Tênis Nike Court Vision Low Next Nature Feminino",
    "preco": 279,
    "de": null,
@@ -17,45 +35,6 @@
    "relampago": false,
    "quando": "2026-11-12T23:15:18",
    "visto": "2026-11-12T23:15:18"
-  },
-  {
-   "titulo": "Mochila adidas Linear 18 Litros",
-   "preco": 94,
-   "de": null,
-   "pct": null,
-   "pix": false,
-   "cupom": {
-    "codigo": "TOMA10",
-    "final": null
-   },
-   "loja": "Centauro",
-   "imagem": "https://media.pelando.com.br/A-lLEmUySrSC08QjGUHQ_yEUU-c=/0x300/filters:format(webp)/d/scp-3nq3z-1794495182970.jpg",
-   "link": "https://www.centauro.com.br/mochila-adidas-linear-18-litros-993870.html?cor=3X",
-   "prime": false,
-   "id": "mochila-adidas-linear-18-litros-b347",
-   "nota": 160.3,
-   "vitrine": true,
-   "relampago": false,
-   "quando": "2026-11-12T11:53:51",
-   "visto": "2026-11-12T11:53:51"
-  },
-  {
-   "titulo": "Tênis Nike Dunk Low Retro SE Masculino",
-   "preco": 499,
-   "de": null,
-   "pct": null,
-   "pix": false,
-   "cupom": null,
-   "loja": "Nike",
-   "imagem": "https://media.pelando.com.br/7p5kbex2UiUpLy3msR9RLRqqU8E=/0x300/filters:format(webp)/d/imagecropper1794489264830-1794489267668.jpg",
-   "link": "https://www.nike.com.br/tenis-nike-dunk-low-retro-se-masculino-114062.html?cor=BR",
-   "prime": false,
-   "id": "tenis-nike-dunk-low-retro-se-masculino-1c24",
-   "nota": 194.1,
-   "vitrine": true,
-   "relampago": false,
-   "quando": "2026-11-12T10:15:35",
-   "visto": "2026-11-12T10:15:35"
   }
  ],
  "lista": []
