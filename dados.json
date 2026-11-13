@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Lacoste L-Spin Feminino - Branco",
+   "preco": 269.1,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "Netshoes",
+   "imagem": "https://media.pelando.com.br/v-LipB67xQNJw3Cr5gbPHfntvhU=/0x300/filters:format(webp)/d/crawler-image-3149f5fa-c3b6-414f-8cd7-ca3eda7ba9c0-1794610830615-1794610831514.jpg",
+   "link": "https://www.netshoes.com.br/p/tenis-lacoste-lspin-feminino-branco-S2E-0356-014",
+   "prime": false,
+   "id": "tenis-lacoste-l-spin-feminino-branco-9cc7",
+   "nota": 194.3,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-13T20:06:06",
+   "visto": "2026-11-13T20:06:06"
+  },
+  {
    "titulo": "Chinelo Rider R1 Brasil Masculino",
    "preco": 9.99,
    "de": null,
