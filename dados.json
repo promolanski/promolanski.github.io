@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Chinelo Rider R1 Brasil Masculino",
+   "preco": 9.99,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "CHINELO",
+    "final": null
+   },
+   "loja": "Netshoes",
+   "imagem": "https://media.pelando.com.br/yXcbPLtZOzqB5ylB39v_Ov8asvc=/0x300/filters:format(webp)/d/scp-ohw46g-1794604487643.jpg",
+   "link": "https://www.netshoes.com.br/p/chinelo-rider-r1-brasil-masculino-G71-35MO-026",
+   "prime": false,
+   "id": "chinelo-rider-r1-brasil-masculino-eb65",
+   "nota": 176.5,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-13T18:17:45",
+   "visto": "2026-11-13T18:17:45"
+  },
+  {
    "titulo": "Tênis Adidas Advantage Base 2.0 Masculino - Branco+Verde",
    "preco": 139,
    "de": null,
