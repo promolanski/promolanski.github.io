@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Puma Caven 2.0 Mono BDP",
+   "preco": 173,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "SEXTATREZE",
+    "final": null
+   },
+   "loja": "Netshoes",
+   "imagem": "https://media.pelando.com.br/q4at3G01HUSf5Z84CVN53ZmPWwg=/0x300/filters:format(webp)/d/crawler-image-9ada6e35-ab61-4040-8f12-963b45ad39dd-1794611563866-1794611564760.jpg",
+   "link": "https://www.netshoes.com.br/p/tenis-puma-caven-20-mono-bdp-branco+cinza-PI3-75LX-014",
+   "prime": false,
+   "id": "tenis-puma-caven-2-0-mono-bdp-4dcc",
+   "nota": 200.4,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-13T20:14:31",
+   "visto": "2026-11-13T20:14:31"
+  },
+  {
    "titulo": "Tênis Lacoste L-Spin Feminino - Branco",
    "preco": 269.1,
    "de": null,
