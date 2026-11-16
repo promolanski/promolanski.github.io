@@ -1,4 +1,23 @@
 {
- "ofertas": [],
+ "ofertas": [
+  {
+   "titulo": "Tênis Puma X-Ray 3 Unissex",
+   "preco": 299,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "Puma",
+   "imagem": "https://media.pelando.com.br/rn1GmkkgCxAbWBSBE5LDVDRjRdc=/0x300/filters:format(webp)/d/png-1794837636177",
+   "link": "https://br.puma.com/pd/tenis-x-ray-3-unissex/402467.html",
+   "prime": false,
+   "id": "tenis-puma-x-ray-3-unissex-9c9b",
+   "nota": 180.6,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-16T11:02:04",
+   "visto": "2026-11-16T11:02:04"
+  }
+ ],
  "lista": []
 }
