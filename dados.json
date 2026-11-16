@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Tenis Adidas Adizero Drive RC M",
+   "preco": 467,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "ADISQUAD",
+    "final": null
+   },
+   "loja": "Adidas",
+   "imagem": "https://media.pelando.com.br/bi5LyLJ-qnEDRocSyYIafll1Q_Q=/0x300/filters:format(webp)/d/imagecropper1794854449167-1794854450524.jpg",
+   "link": "https://www.adidas.com.br/adizero-drive-rc-m/HP7054.html",
+   "prime": false,
+   "id": "tenis-adidas-adizero-drive-rc-m-39ef",
+   "nota": 173.7,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-16T15:43:58",
+   "visto": "2026-11-16T15:43:58"
+  },
+  {
    "titulo": "Tênis Nike Air Force 1 07 SE",
    "preco": 369,
    "de": null,
