@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Nike Air Force 1 07 SE",
+   "preco": 369,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "Nike",
+   "imagem": "https://media.pelando.com.br/hUW6WxXqM2kzPscpr6NiIcQthOg=/0x300/filters:format(webp)/d/imagem2026-11-16132540960-1794846341670.png",
+   "link": "https://www.nike.com.br/tenis-nike-air-force-1-07-se-025814.html",
+   "prime": false,
+   "id": "tenis-nike-air-force-1-07-se-e9bd",
+   "nota": 213.0,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-16T13:27:29",
+   "visto": "2026-11-16T13:27:29"
+  },
+  {
    "titulo": "Tênis Nike Air Max SC Masculino",
    "preco": 349,
    "de": null,
