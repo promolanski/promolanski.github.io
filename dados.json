@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Nike Air Max SC Masculino",
+   "preco": 349,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "Nike",
+   "imagem": "https://media.pelando.com.br/DX2nJoRkuE0fo1FvsSR6okAfYac=/0x300/filters:format(webp)/d/crawler-image-9dead1e5-dc13-4c6b-be10-75a2cdd27863-1794840123098-1794840134099.jpg",
+   "link": "https://www.nike.com.br/tenis-nike-air-max-sc-masculino-011224.html?cor=52",
+   "prime": false,
+   "id": "tenis-nike-air-max-sc-masculino-8b78",
+   "nota": 182.5,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-16T11:43:46",
+   "visto": "2026-11-16T11:43:46"
+  },
+  {
    "titulo": "Tênis Puma X-Ray 3 Unissex",
    "preco": 299,
    "de": null,
