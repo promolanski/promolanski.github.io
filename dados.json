@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Nike Court Vision Low Next Nature Masculino Branco",
+   "preco": 299.9,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "Netshoes",
+   "imagem": "https://media.pelando.com.br/W2SKdkNsUKS2llYCSn_4WE7CHdU=/0x300/filters:format(webp)/d/scp-awqve-1794919809656.jpg",
+   "link": "https://www.netshoes.com.br/p/tenis-nike-court-vision-low-next-nature-masculino-branco-SGL-0559-014?sellerId=13644",
+   "prime": false,
+   "id": "tenis-nike-court-vision-low-next-nature-masculino-br-3882",
+   "nota": 179.5,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-17T09:51:50",
+   "visto": "2026-11-17T09:51:50"
+  },
+  {
    "titulo": "Tenis Adidas Adizero Drive RC M",
    "preco": 467,
    "de": null,
