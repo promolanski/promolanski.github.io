@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "Bone Adidas Essentials Logo Branco",
+   "preco": 62,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "Netshoes",
+   "imagem": "https://media.pelando.com.br/h8Z_CmecMT5_WhtOVAj3RaeuaHE=/0x300/filters:format(webp)/d/captura-de-tela-2026-11-18-ais-101703-1795007831721.png",
+   "link": "https://www.netshoes.com.br/p/bone-adidas-essentials-logo-branco-FBA-4294-014-03?sellerId=9702",
+   "prime": false,
+   "id": "bone-adidas-essentials-logo-branco-2b40",
+   "nota": 165.6,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-18T10:18:56",
+   "visto": "2026-11-18T10:18:56"
+  },
+  {
    "titulo": "Tênis Puma Flyer Flex BDP - Masculino",
    "preco": 127,
    "de": null,
@@ -41,24 +59,6 @@
    "relampago": false,
    "quando": "2026-11-17T11:52:22",
    "visto": "2026-11-17T11:52:22"
-  },
-  {
-   "titulo": "Tênis Nike Court Vision Low Next Nature Masculino Branco",
-   "preco": 299.9,
-   "de": null,
-   "pct": null,
-   "pix": false,
-   "cupom": null,
-   "loja": "Netshoes",
-   "imagem": "https://media.pelando.com.br/W2SKdkNsUKS2llYCSn_4WE7CHdU=/0x300/filters:format(webp)/d/scp-awqve-1794919809656.jpg",
-   "link": "https://www.netshoes.com.br/p/tenis-nike-court-vision-low-next-nature-masculino-branco-SGL-0559-014?sellerId=13644",
-   "prime": false,
-   "id": "tenis-nike-court-vision-low-next-nature-masculino-br-3882",
-   "nota": 179.5,
-   "vitrine": true,
-   "relampago": false,
-   "quando": "2026-11-17T09:51:50",
-   "visto": "2026-11-17T09:51:50"
   }
  ],
  "lista": []
