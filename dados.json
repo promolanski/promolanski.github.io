@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "SmartBand Samsung Galaxy Fit3 Grafite",
+   "preco": 159,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "FIT3",
+    "final": null
+   },
+   "loja": "Netshoes",
+   "imagem": "https://media.pelando.com.br/lCtCvPMaQhiu0hLmrFuh8TGvLmk=/0x300/filters:format(webp)/d/scp-5gvxu-1795037001264.jpg",
+   "link": "https://www.netshoes.com.br/p/smartband-samsung-galaxy-fit3-grafite-2ID-1966-266",
+   "prime": false,
+   "id": "smartband-samsung-galaxy-fit3-grafite-c09b",
+   "nota": 175.7,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-18T18:26:34",
+   "visto": "2026-11-18T18:26:34"
+  },
+  {
    "titulo": "Tênis de Corrida Cumulus 28 Asics Azul",
    "preco": 404,
    "de": null,
