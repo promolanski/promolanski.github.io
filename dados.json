@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Mizuno Neo Zen 2 Masculino Verde Branco",
+   "preco": 569,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "400RUN",
+    "final": null
+   },
+   "loja": "Netshoes",
+   "imagem": "https://media.pelando.com.br/isBjcTmPJOchDCargBx_fx5Z1M4=/0x300/filters:format(webp)/d/scp-ks5i4-1795027909114.jpg",
+   "link": "https://www.netshoes.com.br/p/tenis-mizuno-neo-zen-2-masculino-verde+branco-SIC-00FC-054",
+   "prime": false,
+   "id": "tenis-mizuno-neo-zen-2-masculino-verde-branco-e640",
+   "nota": 192.4,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-18T15:53:50",
+   "visto": "2026-11-18T15:53:50"
+  },
+  {
    "titulo": "Tênis Puma Slipstream LTH",
    "preco": 299,
    "de": null,
