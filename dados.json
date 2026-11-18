@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Puma Slipstream LTH",
+   "preco": 299,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "Puma",
+   "imagem": "https://media.pelando.com.br/3nrsb-n5YiggDBEWjKScYuloCOA=/0x300/filters:format(webp)/d/png-1795014833863",
+   "link": "https://br.puma.com/pd/tenis-slipstream-lth/391764.html",
+   "prime": false,
+   "id": "tenis-puma-slipstream-lth-af08",
+   "nota": 193.6,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-18T12:20:59",
+   "visto": "2026-11-18T12:20:59"
+  },
+  {
    "titulo": "Bone Adidas Essentials Logo Branco",
    "preco": 62,
    "de": null,
@@ -38,27 +56,6 @@
    "relampago": false,
    "quando": "2026-11-17T16:24:19",
    "visto": "2026-11-17T16:24:19"
-  },
-  {
-   "titulo": "Tênis Nike Court Vision Low Next Nature - Feminino",
-   "preco": 271,
-   "de": null,
-   "pct": null,
-   "pix": false,
-   "cupom": {
-    "codigo": "TERCOU",
-    "final": null
-   },
-   "loja": "Centauro",
-   "imagem": "https://media.pelando.com.br/XzOQLhYHWC1NKPWvrQxpg-yUWdc=/0x300/filters:format(webp)/d/scp-iocd1-1794926973039.jpg",
-   "link": "https://www.centauro.com.br/tenis-feminino-nike-court-vision-low-963112.html?cor=02",
-   "prime": false,
-   "id": "tenis-nike-court-vision-low-next-nature-feminino-af27",
-   "nota": 184.8,
-   "vitrine": true,
-   "relampago": false,
-   "quando": "2026-11-17T11:52:22",
-   "visto": "2026-11-17T11:52:22"
   }
  ],
  "lista": []
