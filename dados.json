@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis de Corrida Cumulus 28 Asics Azul",
+   "preco": 404,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "100FFNOPIX",
+    "final": null
+   },
+   "loja": "Decathlon",
+   "imagem": "https://media.pelando.com.br/Sz3qHrgIYRQZ9T5ZNBv7dQA6JYM=/0x300/filters:format(webp)/d/crawler-image-c9f8303f-63d4-48e8-8cb0-b2b3e5e19564-1795035026822-1795035028221.jpg",
+   "link": "https://www.decathlon.com.br/tenis-masculino-de-corrida-cumulus-28-azul-9016044-asics/p",
+   "prime": false,
+   "id": "tenis-de-corrida-cumulus-28-asics-azul-d95c",
+   "nota": 175.9,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-18T17:53:34",
+   "visto": "2026-11-18T17:53:34"
+  },
+  {
    "titulo": "Tênis Mizuno Neo Zen 2 Masculino Verde Branco",
    "preco": 569,
    "de": null,
@@ -56,27 +77,6 @@
    "relampago": false,
    "quando": "2026-11-18T10:18:56",
    "visto": "2026-11-18T10:18:56"
-  },
-  {
-   "titulo": "Tênis Puma Flyer Flex BDP - Masculino",
-   "preco": 127,
-   "de": null,
-   "pct": null,
-   "pix": false,
-   "cupom": {
-    "codigo": "TOMA10",
-    "final": null
-   },
-   "loja": "Centauro",
-   "imagem": "https://media.pelando.com.br/l_AkofRpi4UKghakajT1l0yBZGQ=/0x300/filters:format(webp)/d/scp-1xtlm-1794943263136.jpg",
-   "link": "https://www.centauro.com.br/tenis-puma-flyer-flex-bdp-masculino-984352.html?cor=04",
-   "prime": false,
-   "id": "tenis-puma-flyer-flex-bdp-masculino-4299",
-   "nota": 162.3,
-   "vitrine": true,
-   "relampago": false,
-   "quando": "2026-11-17T16:24:19",
-   "visto": "2026-11-17T16:24:19"
   }
  ],
  "lista": []
