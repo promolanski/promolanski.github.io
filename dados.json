@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Corrida Adidas Supernova Rise 3",
+   "preco": 467,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "ADISQUAD",
+    "final": null
+   },
+   "loja": "Adidas",
+   "imagem": "https://media.pelando.com.br/skx_UbvxVPmAsbAkOlEXH_eKP88=/0x300/filters:format(webp)/d/crawler-image-8ccae27a-1f1c-44fa-831e-aa2eedb15bac-1795087438309-1795087439154.jpg",
+   "link": "https://www.adidas.com.br/tenis-corrida-supernova-rise-3/JP8681.html",
+   "prime": false,
+   "id": "tenis-corrida-adidas-supernova-rise-3-6de7",
+   "nota": 180.1,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-19T08:31:46",
+   "visto": "2026-11-19T08:31:46"
+  },
+  {
    "titulo": "SmartBand Samsung Galaxy Fit3 Grafite",
    "preco": 159,
    "de": null,
