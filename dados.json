@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Nike Air Jordan 1 Low SE Feminino",
+   "preco": 599,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "Nike",
+   "imagem": "https://media.pelando.com.br/6q--Wmh45SIds16pIfk-OErBcmY=/0x300/filters:format(webp)/d/crawler-image-2f3e8141-2c55-4817-8b0b-0e463ed17d11-1795109637955-1795109638874.jpg",
+   "link": "https://www.nike.com.br/tenis-air-jordan-1-low-se-feminino-104925.html?cor=15",
+   "prime": false,
+   "id": "tenis-nike-air-jordan-1-low-se-feminino-130e",
+   "nota": 205.8,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-19T14:35:49",
+   "visto": "2026-11-19T14:35:49"
+  },
+  {
    "titulo": "Camiseta Adidas We Base Masculina Azul Branco",
    "preco": 56,
    "de": null,
