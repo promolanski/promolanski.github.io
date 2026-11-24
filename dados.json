@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Nike Air Max SC Masculino",
+   "preco": 249,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "NIKE40",
+    "final": null
+   },
+   "loja": "Nike",
+   "imagem": "https://media.pelando.com.br/FyK8TNwHZI-n55oXYaaPoSE9oBo=/0x300/filters:format(webp)/d/scp-jp6xm-1795540555087.jpg",
+   "link": "https://www.nike.com.br/tenis-nike-air-max-sc-masculino-011224.html",
+   "prime": false,
+   "id": "tenis-nike-air-max-sc-masculino-b6b4",
+   "nota": 195.5,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-24T14:16:47",
+   "visto": "2026-11-24T14:16:47"
+  },
+  {
    "titulo": "Tênis Advantage Base 2.0",
    "preco": 149.99,
    "de": null,
