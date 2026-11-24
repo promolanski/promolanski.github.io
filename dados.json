@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Advantage Base 2.0",
+   "preco": 149.99,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "Adidas",
+   "imagem": "https://media.pelando.com.br/SBT9BPveki7ZdCH32tzkKKNP2Bk=/0x300/filters:format(webp)/d/scp-uqe7a-1795539227925.jpg",
+   "link": "https://www.adidas.com.br/tenis-advantage-base-2.0/ID3888.html",
+   "prime": false,
+   "id": "tenis-advantage-base-2-0-e25c",
+   "nota": 161.3,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-24T13:54:33",
+   "visto": "2026-11-24T13:54:33"
+  },
+  {
    "titulo": "Tênis Nike Court Vision Low Masculino",
    "preco": 309,
    "de": null,
