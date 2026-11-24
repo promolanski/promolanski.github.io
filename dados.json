@@ -1,4 +1,26 @@
 {
- "ofertas": [],
+ "ofertas": [
+  {
+   "titulo": "Tênis de Basquete Under Armour Futr X Elite",
+   "preco": 359,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "VOLTEI20",
+    "final": null
+   },
+   "loja": "Under Armour",
+   "imagem": "https://media.pelando.com.br/jlAr8wRh7invNr2ZeXpsdPdxyl0=/0x300/filters:format(webp)/d/crawler-image-e6234097-a910-499b-aff0-b19dfda36f8a-1795528409999-1795528411058.jpg",
+   "link": "https://www.underarmour.com.br/tenis-de-basquete-under-armour-futr-x-elite-3028827-001/p",
+   "prime": false,
+   "id": "tenis-de-basquete-under-armour-futr-x-elite-2663",
+   "nota": 163.0,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-24T10:54:46",
+   "visto": "2026-11-24T10:54:46"
+  }
+ ],
  "lista": []
 }
