@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Nike Court Vision Low Masculino",
+   "preco": 309,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "NIKE40",
+    "final": null
+   },
+   "loja": "Nike",
+   "imagem": "https://media.pelando.com.br/dtHvBFXdOiffiGL1AT3cz9C4dCU=/0x300/filters:format(webp)/d/crawler-image-002069ad-569b-4416-ae2d-0eb37d5ec18e-1795536636299-1795536637330.jpg",
+   "link": "https://www.nike.com.br/tenis-nike-court-vision-low-masculino-095392.html?cor=IF",
+   "prime": false,
+   "id": "tenis-nike-court-vision-low-masculino-ad0b",
+   "nota": 174.4,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-24T13:12:16",
+   "visto": "2026-11-24T13:12:16"
+  },
+  {
    "titulo": "Tênis Nike Court Vision Low",
    "preco": 271,
    "de": null,
