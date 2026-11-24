@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Nike Court Vision Low",
+   "preco": 271,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "TERCOU",
+    "final": null
+   },
+   "loja": "Centauro",
+   "imagem": "https://media.pelando.com.br/u15iksHL5mAIQeyV2W-sL1T9JVY=/0x300/filters:format(webp)/d/imagecropper1795534975258-1795534977677.jpg",
+   "link": "https://www.centauro.com.br/tenis-feminino-nike-court-vision-low-963112.html?cor=02",
+   "prime": false,
+   "id": "tenis-nike-court-vision-low-af27",
+   "nota": 181.9,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-24T12:45:18",
+   "visto": "2026-11-24T12:45:18"
+  },
+  {
    "titulo": "Tênis Feminino Corrida Under Armour Infinite Elite",
    "preco": 280,
    "de": null,
