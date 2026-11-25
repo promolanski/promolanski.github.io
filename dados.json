@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Kit Camisetas Hering Slim Básicas 2 Peças Masculino Branco Cinza",
+   "preco": 34,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "PELANDO",
+    "final": null
+   },
+   "loja": "Netshoes",
+   "imagem": "https://media.pelando.com.br/rgS-I2ekcZefS3g8uwThO6FOY_w=/0x300/filters:format(webp)/d/scp-4qqnc-1795611156592.jpg",
+   "link": "https://www.netshoes.com.br/p/kit-camisetas-hering-slim-basicas-2-pecas-masculino-branco+cinza-ARI-2199-158",
+   "prime": false,
+   "id": "kit-camisetas-hering-slim-basicas-2-pecas-masculino-3132",
+   "nota": 157.0,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-25T09:54:09",
+   "visto": "2026-11-25T09:54:09"
+  },
+  {
    "titulo": "Processador AMD Ryzen 7 9800X3D",
    "preco": 1999.49,
    "de": null,
