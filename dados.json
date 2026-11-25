@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "Processador AMD Ryzen 7 9800X3D",
+   "preco": 1999.49,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "",
+   "imagem": null,
+   "link": "https://www.amazon.com.br/dp/B0DKFMSMYK?tag=promolanski-20",
+   "prime": false,
+   "id": "processador-amd-ryzen-7-9800x3d-b6f2",
+   "nota": 211.2,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-25T08:35:45",
+   "visto": "2026-11-25T08:35:45"
+  },
+  {
    "titulo": "Tênis Nike Air Max SC Masculino",
    "preco": 249,
    "de": null,
