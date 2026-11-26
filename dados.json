@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Masculino Mormaii Urban Leap N° 35",
+   "preco": 69.99,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "Centauro",
+   "imagem": "https://media.pelando.com.br/kg7w037RjfCmeyq3o7zLnvljpWc=/0x300/filters:format(webp)/d/scp-rg5dl-1795706073259.jpg",
+   "link": "https://www.centauro.com.br/tenis-masculino-mormaii-urban-leap-996036.html",
+   "prime": false,
+   "id": "tenis-masculino-mormaii-urban-leap-n-35-2b0a",
+   "nota": 175.2,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-26T12:21:40",
+   "visto": "2026-11-26T12:21:40"
+  },
+  {
    "titulo": "Tênis Corrida New Balance Fuelcell Rebel V5",
    "preco": 486.0,
    "de": null,
@@ -35,27 +53,6 @@
    "relampago": false,
    "quando": "2026-11-26T08:47:57",
    "visto": "2026-11-26T08:47:57"
-  },
-  {
-   "titulo": "Kit Camisetas Hering Slim Básicas 2 Peças Masculino Branco Cinza",
-   "preco": 34,
-   "de": null,
-   "pct": null,
-   "pix": false,
-   "cupom": {
-    "codigo": "PELANDO",
-    "final": null
-   },
-   "loja": "Netshoes",
-   "imagem": "https://media.pelando.com.br/rgS-I2ekcZefS3g8uwThO6FOY_w=/0x300/filters:format(webp)/d/scp-4qqnc-1795611156592.jpg",
-   "link": "https://www.netshoes.com.br/p/kit-camisetas-hering-slim-basicas-2-pecas-masculino-branco+cinza-ARI-2199-158",
-   "prime": false,
-   "id": "kit-camisetas-hering-slim-basicas-2-pecas-masculino-3132",
-   "nota": 157.0,
-   "vitrine": true,
-   "relampago": false,
-   "quando": "2026-11-25T09:54:09",
-   "visto": "2026-11-25T09:54:09"
   }
  ],
  "lista": []
