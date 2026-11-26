@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Corrida New Balance Fuelcell Rebel V5",
+   "preco": 486.0,
+   "de": null,
+   "pct": null,
+   "pix": true,
+   "cupom": null,
+   "loja": "Decathlon",
+   "imagem": null,
+   "link": "https://www.decathlon.com.br/tenis-masculino-de-corrida-fuelcell-rebel-v5-preto-9045439-new-balance/p",
+   "prime": false,
+   "id": "tenis-corrida-new-balance-fuelcell-rebel-v5-92a0",
+   "nota": 185.9,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-26T08:48:16",
+   "visto": "2026-11-26T08:48:16"
+  },
+  {
    "titulo": "Chinelo Rider Feel Slide Unissex - Branco+Preto",
    "preco": 9.99,
    "de": null,
