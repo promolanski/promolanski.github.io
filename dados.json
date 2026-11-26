@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Converse Day One Original Preto",
+   "preco": 135,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "pelando",
+    "final": null
+   },
+   "loja": "Netshoes",
+   "imagem": "https://media.pelando.com.br/WqHJW8wSSJe3DwIxVm9Dq7sWFQw=/0x300/filters:format(webp)/d/scp-2zntc-1795728736144.jpg",
+   "link": "https://www.netshoes.com.br/p/tenis-converse-day-one-original-preto-D26-7931-006",
+   "prime": false,
+   "id": "tenis-converse-day-one-original-preto-0943",
+   "nota": 161.3,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-26T18:32:53",
+   "visto": "2026-11-26T18:32:53"
+  },
+  {
    "titulo": "Perfume Scuderia Ferrari Red EDT Masculino 125ml Incolor",
    "preco": 99,
    "de": null,
