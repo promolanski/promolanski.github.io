@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Perfume Scuderia Ferrari Red EDT Masculino 125ml Incolor",
+   "preco": 99,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "PERFUME",
+    "final": null
+   },
+   "loja": "Netshoes",
+   "imagem": "https://media.pelando.com.br/0LfwPQvsJ6RNmDloDtQqGiB68j8=/0x300/filters:format(webp)/d/scp-6h3hth-1795728606126.jpg",
+   "link": "https://www.netshoes.com.br/p/perfume-scuderia-ferrari-red-edt-masculino-125ml-incolor-C45-024B-460",
+   "prime": false,
+   "id": "perfume-scuderia-ferrari-red-edt-masculino-125ml-inc-0d07",
+   "nota": 173.2,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-26T18:32:29",
+   "visto": "2026-11-26T18:32:29"
+  },
+  {
    "titulo": "Tênis Nike Revolution 7 Feminino",
    "preco": 229,
    "de": null,
