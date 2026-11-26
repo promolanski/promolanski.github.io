@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Nike Revolution 7 Feminino",
+   "preco": 229,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "Nike",
+   "imagem": "https://media.pelando.com.br/CdRuBd-8E5bn7rhB7eAy7kk2J8M=/0x300/filters:format(webp)/d/scp-b5pxy-1795720388045.jpg",
+   "link": "https://www.nike.com.br/tenis-nike-revolution-7-feminino-027284.html?cor=IM",
+   "prime": false,
+   "id": "tenis-nike-revolution-7-feminino-89f4",
+   "nota": 174.6,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-26T16:15:10",
+   "visto": "2026-11-26T16:15:10"
+  },
+  {
    "titulo": "Creatine Black Skull Turbo 150g Sem Sabor",
    "preco": 14.9,
    "de": null,
