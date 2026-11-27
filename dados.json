@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Camiseta Adidas We Base Masculina Azul Branco",
+   "preco": 44,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "ADIDAS10",
+    "final": null
+   },
+   "loja": "Netshoes",
+   "imagem": "https://media.pelando.com.br/VRaBk5P5MkgSckqK9MKcqDFnz0Y=/0x300/filters:format(webp)/d/scp-4tfsm-1795805330105.jpg",
+   "link": "https://www.netshoes.com.br/p/camiseta-adidas-we-base-masculina-azul+branco-FBA-83AJ-058",
+   "prime": false,
+   "id": "camiseta-adidas-we-base-masculina-azul-branco-c421",
+   "nota": 157.1,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-27T15:50:34",
+   "visto": "2026-11-27T15:50:34"
+  },
+  {
    "titulo": "Tênis Adidas Originals Samba OG Feminino",
    "preco": 427,
    "de": null,
@@ -137,24 +158,6 @@
    "relampago": false,
    "quando": "2026-11-26T16:15:10",
    "visto": "2026-11-26T16:15:10"
-  },
-  {
-   "titulo": "Creatine Black Skull Turbo 150g Sem Sabor",
-   "preco": 14.9,
-   "de": null,
-   "pct": null,
-   "pix": false,
-   "cupom": null,
-   "loja": "Netshoes",
-   "imagem": "https://media.pelando.com.br/v3kzz7r5z9pCtJ7bT9e2Vb6seko=/0x300/filters:format(webp)/d/scp-y8biel-1795716453720.jpg",
-   "link": "https://www.netshoes.com.br/p/creatine-black-skull-turbo-150g-sem+sabor-G54-3144-289",
-   "prime": false,
-   "id": "creatine-black-skull-turbo-150g-sem-sabor-69f4",
-   "nota": 173.7,
-   "vitrine": true,
-   "relampago": false,
-   "quando": "2026-11-26T15:24:17",
-   "visto": "2026-11-26T15:24:17"
   }
  ],
  "lista": []
