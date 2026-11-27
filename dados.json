@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Nike Court Vision Low Next Nature - Feminino",
+   "preco": 269,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "Centauro",
+   "imagem": "https://media.pelando.com.br/xFQkT7r6QrPRCG4yIUhLOzYxnSI=/0x300/filters:format(webp)/d/scp-4irf6-1795812571501.jpg",
+   "link": "https://www.centauro.com.br/tenis-feminino-nike-court-vision-low-963112.html?cor=02",
+   "prime": false,
+   "id": "tenis-nike-court-vision-low-next-nature-feminino-af27",
+   "nota": 191.4,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-27T17:51:01",
+   "visto": "2026-11-27T17:51:01"
+  },
+  {
    "titulo": "Tênis Nike SB Chron 2 Masculino",
    "preco": 189,
    "de": null,
