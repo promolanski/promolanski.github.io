@@ -1,6 +1,27 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Basquete Nike LeBron Witness IX Masculino",
+   "preco": 349,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": {
+    "codigo": "BASQUETE20",
+    "final": null
+   },
+   "loja": "Nike",
+   "imagem": "https://media.pelando.com.br/eys6AuSDAfkuBWToLh6UvCpYYK0=/0x300/filters:format(webp)/d/crawler-image-a59c342f-2e58-4081-92f2-7fce9dcba7e6-1795781774019-1795781774987.jpg",
+   "link": "https://www.nike.com.br/tenis-nike-lebron-witness-ix-masculino-060779.html?cor=MU",
+   "prime": false,
+   "id": "tenis-basquete-nike-lebron-witness-ix-masculino-2213",
+   "nota": 180.0,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-27T09:17:36",
+   "visto": "2026-11-27T09:17:36"
+  },
+  {
    "titulo": "Tênis Converse Day One Original Preto",
    "preco": 135,
    "de": null,
@@ -113,42 +134,6 @@
    "relampago": false,
    "quando": "2026-11-26T12:21:40",
    "visto": "2026-11-26T12:21:40"
-  },
-  {
-   "titulo": "Tênis Corrida New Balance Fuelcell Rebel V5",
-   "preco": 486.0,
-   "de": null,
-   "pct": null,
-   "pix": true,
-   "cupom": null,
-   "loja": "Decathlon",
-   "imagem": null,
-   "link": "https://www.decathlon.com.br/tenis-masculino-de-corrida-fuelcell-rebel-v5-preto-9045439-new-balance/p",
-   "prime": false,
-   "id": "tenis-corrida-new-balance-fuelcell-rebel-v5-92a0",
-   "nota": 185.9,
-   "vitrine": true,
-   "relampago": false,
-   "quando": "2026-11-26T08:48:16",
-   "visto": "2026-11-26T08:48:16"
-  },
-  {
-   "titulo": "Chinelo Rider Feel Slide Unissex - Branco+Preto",
-   "preco": 9.99,
-   "de": null,
-   "pct": null,
-   "pix": false,
-   "cupom": null,
-   "loja": "Netshoes",
-   "imagem": null,
-   "link": "https://www.netshoes.com.br/p/chinelo-rider-feel-slide-unissex-branco+preto-G71-3527-028-41",
-   "prime": false,
-   "id": "chinelo-rider-feel-slide-unissex-branco-preto-c989",
-   "nota": 193.0,
-   "vitrine": true,
-   "relampago": false,
-   "quando": "2026-11-26T08:47:57",
-   "visto": "2026-11-26T08:47:57"
   }
  ],
  "lista": []
