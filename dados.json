@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Nike SB Chron 2 Masculino",
+   "preco": 189,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "Nike",
+   "imagem": "https://media.pelando.com.br/21hqcQg5769SvCbmKGMlEuOd4YU=/0x300/filters:format(webp)/d/scp-1itar-1795808924749.jpg",
+   "link": "https://www.nike.com.br/tenis-nike-sb-chron-2-masculino-014591.html?cor=ID",
+   "prime": false,
+   "id": "tenis-nike-sb-chron-2-masculino-fff8",
+   "nota": 197.2,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-27T16:50:17",
+   "visto": "2026-11-27T16:50:17"
+  },
+  {
    "titulo": "Camiseta Adidas We Base Masculina Azul Branco",
    "preco": 44,
    "de": null,
@@ -140,24 +158,6 @@
    "relampago": false,
    "quando": "2026-11-26T18:32:29",
    "visto": "2026-11-26T18:32:29"
-  },
-  {
-   "titulo": "Tênis Nike Revolution 7 Feminino",
-   "preco": 229,
-   "de": null,
-   "pct": null,
-   "pix": false,
-   "cupom": null,
-   "loja": "Nike",
-   "imagem": "https://media.pelando.com.br/CdRuBd-8E5bn7rhB7eAy7kk2J8M=/0x300/filters:format(webp)/d/scp-b5pxy-1795720388045.jpg",
-   "link": "https://www.nike.com.br/tenis-nike-revolution-7-feminino-027284.html?cor=IM",
-   "prime": false,
-   "id": "tenis-nike-revolution-7-feminino-89f4",
-   "nota": 174.6,
-   "vitrine": true,
-   "relampago": false,
-   "quando": "2026-11-26T16:15:10",
-   "visto": "2026-11-26T16:15:10"
   }
  ],
  "lista": []
