@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "Tênis Nike Air Force 1 '07 SE Feminino",
+   "preco": 349,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "Nike",
+   "imagem": "https://media.pelando.com.br/BfaWpGOWwq8PsrANtSiOuWFuF6s=/0x300/filters:format(webp)/d/crawler-image-4da71f57-f14b-41e1-bdac-17942cb31bb0-1795784114600-1795784115663.jpg",
+   "link": "https://www.nike.com.br/tenis-nike-air-force-1-07-se-025814.html?cor=54",
+   "prime": false,
+   "id": "tenis-nike-air-force-1-07-se-feminino-61fb",
+   "nota": 206.8,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-27T09:57:12",
+   "visto": "2026-11-27T09:57:12"
+  },
+  {
    "titulo": "Tênis Basquete Nike LeBron Witness IX Masculino",
    "preco": 349,
    "de": null,
