@@ -1,6 +1,24 @@
 {
  "ofertas": [
   {
+   "titulo": "TÊNIS HANDBALL SPEZIAL",
+   "preco": 399,
+   "de": null,
+   "pct": null,
+   "pix": false,
+   "cupom": null,
+   "loja": "Adidas",
+   "imagem": "https://media.pelando.com.br/eyJ5l0HnVWaTmE7CUeCd3iDUZAI=/0x300/filters:format(webp)/d/scp-dl6by-1795794086530.jpg",
+   "link": "https://www.adidas.com.br/tenis-handball-spezial/IH1501.html",
+   "prime": false,
+   "id": "tenis-handball-spezial-5477",
+   "nota": 163.4,
+   "vitrine": true,
+   "relampago": false,
+   "quando": "2026-11-27T12:47:40",
+   "visto": "2026-11-27T12:47:40"
+  },
+  {
    "titulo": "Tênis Nike Air Force 1 '07 SE Feminino",
    "preco": 349,
    "de": null,
@@ -134,24 +152,6 @@
    "relampago": false,
    "quando": "2026-11-26T13:07:32",
    "visto": "2026-11-26T13:07:32"
-  },
-  {
-   "titulo": "Tênis Masculino Mormaii Urban Leap N° 35",
-   "preco": 69.99,
-   "de": null,
-   "pct": null,
-   "pix": false,
-   "cupom": null,
-   "loja": "Centauro",
-   "imagem": "https://media.pelando.com.br/kg7w037RjfCmeyq3o7zLnvljpWc=/0x300/filters:format(webp)/d/scp-rg5dl-1795706073259.jpg",
-   "link": "https://www.centauro.com.br/tenis-masculino-mormaii-urban-leap-996036.html",
-   "prime": false,
-   "id": "tenis-masculino-mormaii-urban-leap-n-35-2b0a",
-   "nota": 175.2,
-   "vitrine": true,
-   "relampago": false,
-   "quando": "2026-11-26T12:21:40",
-   "visto": "2026-11-26T12:21:40"
   }
  ],
  "lista": []
